@@ -9,10 +9,10 @@ Companies adopting AI want to understand which employee profiles are most vulner
 # Software used 
 Jupyter Notebook
 
-# Language Used
+# Language 
 Python
 
-# Libraries Used
+# Libraries 
 EDA :- Pandas, Numpy, Matplotlib, Seaborn
 
 # File Structure
