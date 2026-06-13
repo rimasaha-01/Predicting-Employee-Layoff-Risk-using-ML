@@ -17,6 +17,9 @@ EDA :- Pandas, Numpy, Matplotlib, Seaborn
 
 # File Structure
 |_ 1. Exploratory Data Analysis.ipynb --> Dataset used here : ai-impact-jobs-layoff-risk-dataset.csv
+
 |_ 2. Feature Engineering & Preprocessing  --> Dataset used here : cleaned-ai-layoff-dataset.xls (cleaned version of EDA dataset)
+
 |_ 3. Model Building.ipynb
+
 |_ 4. Readme.md
